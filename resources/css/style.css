@@ -24,7 +24,7 @@ body {
 .header--header-sub {
     font-size: 21px;
     color: grey;
-    
+
 
 
 }
@@ -35,3 +35,13 @@ body {
 
 
 }
+
+/*FOOTER */
+
+.footer {
+
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
+
